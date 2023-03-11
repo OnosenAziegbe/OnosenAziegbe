@@ -4,6 +4,8 @@
 <br>
 <a href="https://instagram.com/onosen_x/"><img src="https://img.shields.io/badge/-osato_az-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/osato_az/" alt="Instagram"></a>
 <a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
+<a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
+<a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
 <a href="https://open.spotify.com/user/5v7vdgilr8kr8x29lm14ibfml"><img src="https://img.shields.io/badge/-osato-31099c?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g" alt="Spotify"></a></p>
 Hey 👋  📫
 I'm a third year software engineering major and business entrepreneurship minor student that's super interested in cloud computing 👀. I am currently taking an intro to artificial intelligence🌱. Looking to collaborate in hackathons! Check out my notable devposts 💞️ 
