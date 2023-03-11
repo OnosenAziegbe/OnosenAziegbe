@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="275">
   <p align="center">
 <br>
-<a href="https://instagram.com/onosen_x/"><img src="https://img.shields.io/badge/-osato_az-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/osato_az/" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/onosenaziegbe/"><img src="https://img.shields.io/badge/-onosen-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/osato_az/" alt="Instagram"></a>
 <a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
 <a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
 <a href="https://snapchat.com/victoria1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
