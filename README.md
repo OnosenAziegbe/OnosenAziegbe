@@ -10,7 +10,6 @@
 Hey 👋  📫
 I'm a third year software engineering major and business entrepreneurship minor student at Ontario Tech University Canada. I am interested in cloud computing 👀, currently in an intro to AI course, you can find me at hackathons, leadership positions or sleeping. Please message me to connect 🌱💞️ 
 
-I'm currently working on broadening my programming intelligence to be able to implement my ideas! 
 
 
 <!---
