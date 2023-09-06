@@ -8,7 +8,8 @@
 <a href="https://machacks-2.devpost.com/"><img src="https://img.shields.io/badge/-Judging-ff66ce?style=for-the-badge&amp;logo=devpost&amp;logoColor=white&amp;link=https://onosen/" alt="Devpost Judging"></a>
 <a href="mailto:onosen11@gmail.com?&subject=Connecting from Github&body=You are amazing beautiful and loved, keep smiling. Love Onosen x"><img src="https://img.shields.io/badge/-EMAIL 📫-31099c?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=https://gmail.com/onosen11?si=-yOz-AfDR1msGjoKn65u6g" alt="email"></a></p>
 Hey 👋 
-I'm a Final year Software Engineering major and Business Entrepreneurship minor student at Ontario Tech University Canada. I am interested in Cloud Computing 👀, currently in capstone where I'm working on the design and development of novel IoT Edge applications using Java in collaboration with the IBM Open Liberty Space Rover Mission , you can find me at Hackathons, Leadership positions or Sleeping. Please message me to connect 🌱💞️ 
+I'm a Final year Software Engineering major and Business Entrepreneurship minor student at Ontario Tech University Canada. I am interested in Cloud Computing 👀, currently in capstone where I'm working on the design and development of novel IoT Edge applications using Java in collaboration with the IBM Open Liberty Space Rover Mission , you can find me at Hackathons, Leadership positions or Sleeping. 
+Please message me to connect 🌱💞️ 
 
 
 
