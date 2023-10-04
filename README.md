@@ -10,7 +10,9 @@
 OnosenAziegbe/OnosenAziegbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h align="center">Hello World 🌱</h>
+<h align="center">Hello World 🌱
+<p> Final year Software Engineering Student (specializing in IoT Systems) with Minor in Business Entrepreneurship || Aspiring DevOps and Cloud Engineer
+  </p></h>
 
 
 <p align="center">
