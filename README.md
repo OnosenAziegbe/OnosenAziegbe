@@ -29,5 +29,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://open.spotify.com/user/5v7vdgilr8kr8x29lm14ibfml"><img src="https://img.shields.io/badge/-osato_az-df48ff?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/5v7vdgilr8kr8x29lm14ibfml" alt="Spotify"></a></p>
 
 <br><p align="center">
-![](https://raw.githubusercontent.com/osatohamen/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/osatohamen/github-stats/master/generated/languages.svg)
+![](https://raw.githubusercontent.com/onosenaziegbe/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/onosenaziegbe/github-stats/master/generated/languages.svg)
