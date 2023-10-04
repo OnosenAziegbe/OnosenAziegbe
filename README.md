@@ -1,5 +1,4 @@
 <h2 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="275">
   <p align="center">
 <br>
 
@@ -7,15 +6,15 @@
 
 
 
-
 <!---
 OnosenAziegbe/OnosenAziegbe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<h align="center">Hello World 🌱<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h>
 
-<h align="center"> Hello World 🌱 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h>
 
 <p align="center">
+<br>
 <img src="https://github.com/osatohamen/osatohamen/assets/76673811/f9c4eabf-da4e-4c22-8398-55dae5597fb1" width="300">
  
 <p align="center">
