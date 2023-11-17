@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://devpost.com/software/savepocket"><img src="https://img.shields.io/badge/-project-ff66ce?style=for-the-badge&amp;logo=devpost&amp;logoColor=white&amp;link=https://onosen/" alt="Devpost Project"></a>
 <a href="https://machacks-2.devpost.com/"><img src="https://img.shields.io/badge/-Judging-ff66ce?style=for-the-badge&amp;logo=devpost&amp;logoColor=white&amp;link=https://onosen/" alt="Devpost Judging"></a>
 
-
+<a href="https://www.linkedin.com/in/onosenaziegbe/"><img src="https://img.shields.io/badge/-onosen-df48ff?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/onosenaziegbe/" alt="Linkedln"></a>
 
 </p>
 
